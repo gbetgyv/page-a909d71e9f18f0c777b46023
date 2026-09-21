@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "7fe1aa59fe3ca1bf006c41a6",
+  "owner": "gbetgyv",
+  "repo": "page-a909d71e9f18f0c777b46023",
+  "title": "彩虹云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "a909d71e9f18f0c777b46023",
+      "a": "彩虹云",
+      "b": "稳定全球clash加速器",
+      "entity": "彩虹云",
+      "brand": "彩虹云",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "20175336a2f704e778f5507b443c41cd8901467d5835a17edb3c6cd900b1c4d2",
+      "content": {
+        "primary_entity": "彩虹云",
+        "keyword1": "彩虹云",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择对应客户端导入订阅。",
+          "AI_CLIENTS_TITLE": "设备客户端选择",
+          "AI_CLOSING_TEXT": "选择符合设备数量与流量习惯的套餐，按客户端文档完成订阅配置即可开始使用。",
+          "AI_CLOSING_TITLE": "选好套餐再配置",
+          "AI_DESCRIPTION": "，聚焦套餐选择、设备数量与订阅周期三个实际维度。基础版每月 100GB 流量、支持 3 台设备；旗舰版每月 300GB、支持 5 台设备；团队版每月 1000GB、支持 20 台设备。按年付分别约 ¥150、¥350、¥850，适合根据个人、家庭或团队规模匹配。",
+          "AI_FEATURES_INTRO": "从流量、设备和周期三个角度快速判断套餐。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB，适合轻度浏览；旗舰版 300GB；团队版 1000GB。",
+          "AI_FEATURE_TITLE_1": "流量按需选",
+          "AI_FEATURE_TEXT_2": "基础版 3 台，旗舰版 5 台，团队版 20 台，按常用设备数量匹配。",
+          "AI_FEATURE_TITLE_2": "设备数量匹配",
+          "AI_FEATURE_TEXT_3": "月付灵活，年付约省两个月费用，长期使用可按年付结算。",
+          "AI_FEATURE_TITLE_3": "计费周期灵活",
+          "AI_GUIDE_INTRO": "三步完成从选择到可用的准备。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "彩虹云提供基础版、旗舰版与团队版三档套餐，覆盖 3 台到 20 台设备，月付与年付可选。选好套餐后，按所用设备系统下载对应客户端并导入订阅，即可开始日常使用。",
+          "AI_HERO_SUBTITLE": "按设备与流量选套餐",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖个人到团队",
+          "AI_HIGHLIGHT_2": "设备数量 3 台到 20 台",
+          "AI_HIGHLIGHT_3": "月付年付两种周期可选",
+          "AI_PLANS_INTRO": "基础版 ¥15/月，旗舰版 ¥35/月，团队版 ¥85/月，按年付分别约 ¥150、¥350、¥850，先比较流量与设备数，再确定周期。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据常用设备数量与月度流量，在基础版、旗舰版、团队版中选定一档套餐。",
+          "AI_STEP_TEXT_2": "查看所选套餐的流量额度和同时在线设备限制，确认是否满足日常需求。",
+          "AI_STEP_TEXT_3": "按设备系统下载对应客户端，依照文档导入订阅并保存配置。",
+          "AI_STEP_TITLE_1": "选择合适套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "按客户端文档配置",
+          "AI_VISUAL_TITLE": "彩虹云套餐与设备选择",
+          "AI_FAQ_TITLE": "常见疑问",
+          "AI_FAQ_INTRO": "订阅导入、设备限制、付费周期与套餐升级。",
+          "AI_FAQ_QUESTION_1": "彩虹云套餐可以随时升级吗？",
+          "AI_FAQ_ANSWER_1": "可以在套餐页面选择更高档位。升级后流量与设备上限按新套餐执行，具体差价计算以购买流程显示为准。",
+          "AI_FAQ_QUESTION_2": "一个订阅能同时在几台设备上使用？",
+          "AI_FAQ_ANSWER_2": "基础版 3 台，旗舰版 5 台，团队版 20 台。设备数量指同时在线数，超出的设备需要先断开再连接。",
+          "AI_FAQ_QUESTION_3": "月付和年付有什么区别？",
+          "AI_FAQ_ANSWER_3": "使用期限不同。年付在总价上低于按月累计，例如旗舰版年付 ¥350，相当于按月付费的优惠价格。",
+          "AI_FAQ_QUESTION_4": "订阅信息应该怎么导入客户端？",
+          "AI_FAQ_ANSWER_4": "复制订阅地址后，在所选客户端的订阅或配置入口添加即可。不同客户端界面略有差异，按对应文档操作。",
+          "AI_FAQ_QUESTION_5": "团队版的定制路由指什么？",
+          "AI_FAQ_ANSWER_5": "团队版可根据企业网络结构配置专属路由走向，并配有专属客户经理协助对接，适合多终端协作场景。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "megamill.cn",
+    "host": "megamill.cn"
+  },
+  "file_hashes": {
+    "index.html": "0f8d8d2ba911a905753863558184b46a3672c3f48ae018647da5c3bfd895f065",
+    "sitemap.xml": "0c4c1c06fb72761e4931fafa2c1a40c7af34ad9907afd428b0a56a34f9aaf87b",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "6e012ebec65b25662211f58b1e9b9aa7b9ffd68974384439330b8d0cd24772f4",
+    "robots.txt": "5a1e157d5817240bf379dccd8b58aef6a16e8fac2451796de1730f9e978c375b",
+    "7fd9f3be7141e4bdfa7b9fe588cae586.txt": "a7231ba3fef39ce32299714dda19decced07012caf91e3c7cba8d8f0f42c2dca"
+  },
+  "revision": "e3040642511183cffcfd03dfbf33b2f338d830d650edd5f3d845bd07c66fadf5"
+}
